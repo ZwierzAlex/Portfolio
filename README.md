@@ -32,4 +32,3 @@ Nazywam się Aleksandra Zwierzchowska. Rok 2023 stał się dla mnie rokiem prze�
 2. testuj.pl - Test, Bugs & Rock'n'Roll
 3. remigiuszbednarczyk.pl 
 4. Utest blog
-5. 
